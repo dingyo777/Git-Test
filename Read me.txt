@@ -1,3 +1,5 @@
 ﻿git test 를 위한...
 
 1.change commit
+
+2. pull request 는 어떻게 하는 거지??
